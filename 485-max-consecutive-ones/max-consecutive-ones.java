@@ -8,7 +8,6 @@ class Solution {
             } else {
                 count = 0;
             }
-
             if (count > max) {
                 max = count;
             }
